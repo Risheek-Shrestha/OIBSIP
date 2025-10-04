@@ -6,6 +6,7 @@ body {
             display: flex;
             align-items: center;
             justify-content: center;
+            background-image :url(image.jpg);
         }
         .glass-card {
             background: rgba(255,255,255,0.96);
